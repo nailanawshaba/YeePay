@@ -7,7 +7,7 @@
             "email": "xiaomalover@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {
             "yee-pay\\": "/"
