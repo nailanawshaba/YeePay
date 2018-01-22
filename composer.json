@@ -10,12 +10,12 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "yee-pay\\": "/"
+            "Kaicai\\Pay\\YeePay\\": ""
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "yee-pay\\": "/"
+            "Kaicai\\Pay\\YeePay\\": ""
         }
     }
 }
