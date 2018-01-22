@@ -8,4 +8,14 @@
         }
     ],
     "require": {}
+    "autoload": {
+        "psr-4": {
+            "yee-pay\\": "/"
+        }
+    }
+    "autoload-dev": {
+        "psr-4": {
+            "yee-pay\\": "/"
+        }
+    }
 }
