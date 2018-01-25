@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Extend\Pay\YeePay;
+namespace Kaicai\Pay\YeePay;
 
 class YeePayMPayException extends \Exception
 {
